@@ -1,0 +1,16 @@
+body{
+    background-color: #F5F7F9;
+    color:#022553
+}
+#headerID{
+    border-bottom: solid black 2px;
+    padding: 10px;
+    font-size: 20px;
+}
+.navbar{
+    margin: 0px;
+    padding:0px;
+}
+.jumbotron{
+    margin-top:10px;
+}
